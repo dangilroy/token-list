@@ -49578,6 +49578,17 @@
       "tags": [
         "stablecoin"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "F3DDbJQHiDkmgUt33thXPRPp8NmQ3g2AuaqPiiuRGLjz",
+      "symbol": "DG",
+      "name": "Wrapped UST (Allbridge from Terra)",
+      "decimals": 9,
+      "logoURI": "https://rawhttps://github.dev/solana-labs/token-list/blob/f034350b9c4016c37dff5ca1da59fb1215c2b0c9/assets/mainnet/F3DDbJQHiDkmgUt33thXPRPp8NmQ3g2AuaqPiiuRGLjz/logo.png.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm/logo.png",
+      "tags": [
+        "stablecoin"
+      ]
     }
   ],
   "version": {
